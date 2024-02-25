@@ -1,1 +1,1 @@
-# water-potability
+# CS6830-Project8
